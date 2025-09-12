@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlazorServerCommon_NET6.Shared
+namespace BlazorServerCommon.Shared
 {
     internal class MainLayout
     {
