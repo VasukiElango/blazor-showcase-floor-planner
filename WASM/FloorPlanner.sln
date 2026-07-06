@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FloorPlanner", "FloorPlanne
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FloorPlanner.Client", "FloorPlanner.Client\FloorPlanner.Client.csproj", "{80156ED1-E12D-4538-AC15-23D08AE02555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmCommon_NET10", "..\..\Common\BlazorWasmCommon_NET10.csproj", "{B15E07FC-F6EC-D9F7-B03C-FBD63D03EF79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmCommon_NET10", "..\Common\BlazorWasmCommon_NET10.csproj", "{B15E07FC-F6EC-D9F7-B03C-FBD63D03EF79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
